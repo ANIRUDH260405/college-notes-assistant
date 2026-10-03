@@ -1,0 +1,7 @@
+Python Notes
+
+A list is a mutable ordered collection written with square brackets. A tuple is immutable and written with parentheses.
+A dictionary stores key-value pairs and gives fast lookup by key.
+A decorator is a function that wraps another function to add behavior without changing its code.
+A generator uses yield to produce values lazily, one at a time, which saves memory.
+List comprehension is a short way to build lists: [x*x for x in range(5)].
